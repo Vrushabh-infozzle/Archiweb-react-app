@@ -43,8 +43,8 @@ function Projects() {
                     <figure className="my-0">
                         <img className="img-fluid" src={eachProperty.image} alt={`img${index}`} />
                     </figure>
-                    {/* <p dangerouslySetInnerHTML={{ __html: eachProperty.newData }}></p> */}
-                    <p>{`${eachProperty.newData}`}</p>
+                    <p dangerouslySetInnerHTML={{ __html: eachProperty.newData }}></p>
+                    {/* <p>{`${eachProperty.newData}`}</p> */}
                 </section>
             </section>
         ));
