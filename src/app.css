@@ -1,0 +1,105 @@
+.archiWeb-Css {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 42px;
+}
+
+
+.bg-flat-image {
+    background-image: url("/public/images/Archiweb-images/real-estate.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    position: relative;
+    filter: grayscale(50%);
+    z-index: 1;
+    /* height: 500px; */
+}
+
+/* First carousel css start from here */
+
+.bg-mix {
+    background: linear-gradient(91.1deg, rgba(244, 246, 245, 0.9) -7.89%, rgba(255, 255, 255, 0.9) 132.55%);
+    /* transform: translateY(-130%); */
+    margin-left: -220px;
+    margin-top: 70px;
+    position: absolute;
+    z-index: 4;
+    width: 450px;
+}
+
+
+/* #About-us image{height: 300px !important;} */
+
+/* Our services css start from here */
+.bg-grey {
+    background: #254D4D33;
+}
+
+.fs-31 {
+    font-size: 25px;
+}
+
+/* Our project section css start form  here */
+#Our-project .tabSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.bg-black {
+    background-color: #2E2F32;
+}
+
+.text-verylight {
+    color: #fafafabe;
+}
+
+.activeBtn {
+    border-bottom: 5px solid black;
+}
+
+
+/* Mobile view media query start from here */
+@media only screen and (min-width:300px)and (max-width:991px) {
+    .bg-mix {
+        width: 80% !important;
+        margin-left: 0px;
+        margin-top: 0px;
+        font-size: calc(0.6rem + 1vw) !important;
+        padding-left: 1rem !important;
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+    }
+
+    #About-us img {
+        width: 100%;
+    }
+
+    .bg-flat-image {
+        height: 50vh;
+    }
+
+    .navbar-nav .nav-item {
+        padding-left: 20px;
+        font-weight: 800;
+    }
+
+    .navbar-collapse {
+        border-top: 1px solid black;
+    }
+}
+
+#read-more {
+    cursor: pointer;
+}
+
+
+@media only screen and (min-width:316px) and (max-width:768px) {
+
+    .navbar-collapse .col-md-5 {
+        display: none;
+    }
+}
