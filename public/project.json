@@ -1,58 +1,68 @@
 {
-    "allPorjectData": [
+    "allProjectData": [
         {
             "image": "images/Archiweb-images/douglas-sheppard-9rYfG8sWRVo-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
+            "newData": "Our Services Line one <br> Service line two"
         },
         {
             "image": "images/Archiweb-images/webaliser-_TPTXZd9mOo-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
+            "newData": "Our Services Line one <br> Service line two"
         },
         {
             "image": "images/Archiweb-images/brian-babb-XbwHrt87mQ0-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
+            "newData": "Our Services Line one <br> Service line two"
         },
         {
             "image": "images/Archiweb-images/spacejoy-KSfe2Z4REEM-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
+            "newData": "Our Services Line one <br> Service line two"
         },
         {
             "image": "images/Archiweb-images/ralph-ravi-kayden-JDBVXignFdA-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
+            "newData": "Our Services Line one <br> Service line two"
         },
         {
             "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
-            "newData": "Our Services Line one <br> Servive line two"
-        }
-    ],
-    "furnitureData": [
+            "newData": "Our Services Line one <br> Service line two"
+        },
         {
-            "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
-            "newData": "Furniture project 1 details"
-        },{
-            "image": "images/Archiweb-images/ralph-ravi-kayden-JDBVXignFdA-unsplash.png",
-            "newData": "Furniture project 1 details"
-        },{
-            "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
-            "newData": "Furniture project 1 details"
-        }
-    ],
-    "designData": [
+            "furnitureData": [
+                {
+                    "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
+                    "newData": "Furniture project 1 details"
+                },
+                {
+                    "image": "images/Archiweb-images/ralph-ravi-kayden-JDBVXignFdA-unsplash.png",
+                    "newData": "Furniture project 1 details"
+                },
+                {
+                    "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
+                    "newData": "Furniture project 1 details"
+                }
+            ]
+        },
         {
-            "image": "images/Archiweb-images/spacejoy-KSfe2Z4REEM-unsplash.png",
-            "newData": "Design project 1 details"
-        },{
-            "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
-            "newData": "Design project 1 details"
-        }
-    ],
-    "houseData": [
+            "designData": [
+                {
+                    "image": "images/Archiweb-images/spacejoy-KSfe2Z4REEM-unsplash.png",
+                    "newData": "Design project 1 details"
+                },
+                {
+                    "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
+                    "newData": "Design project 1 details"
+                }
+            ]
+        },
         {
-            "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
-            "newData": "house project 1 details"
-        },{
-            "image": "images/Archiweb-images/brian-babb-XbwHrt87mQ0-unsplash.png",
-            "newData": "house project 1 details"
+            "houseData": [
+                {
+                    "image": "images/Archiweb-images/jonathan-borba-brXCnh_dXWU-unsplash.png",
+                    "newData": "House project 1 details"
+                },
+                {
+                    "image": "images/Archiweb-images/brian-babb-XbwHrt87mQ0-unsplash.png",
+                    "newData": "House project 1 details"
+                }
+            ]
         }
     ]
 }
